@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body{background-color: #ffe0b6}
+header{background-image: url(犬の幼稚園header.JPG);background-repeat: no-repeat;background-size: cover;height: 70vh;}
+h1{text-align: center;}
+html{font-size: 100%;}
+h1{font-family:'Alkatra', cursive;font-size: 5rem;color: #ffffff;}
+h2{font-family: 'Alkatra', cursive;font-size: 2rem;}
+h4{font-family: 'Alkatra', cursive;font-size: 25px;}
+p{font-family:'Alkatra', cursive;font-size: 18px;}
+ol{font-family:'Alkatra', cursive;font-size: 25px;font-weight: bold;}
+ul{font-family:'Alkatra', cursive;font-size: 25px;font-weight: bold;}
+div img{border-radius: 50%;float: right;}
+header h2,h3{color: #fffac2;text-align: center;}
+header p{font-weight: bold;color:#d0653b; text-align: center;line-height: 2;}
+div h2{color:#ff9933 ;}
+footer{background-color: #47763c;text-align: left;}
+footer h2{color: #ffffff;}
+footer h4,p{color: #000000;}
+footer img{float: right;}
